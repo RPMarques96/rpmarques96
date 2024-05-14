@@ -1,4 +1,4 @@
-## Saudações, meu nome é Rafael Marques 🖖
+## Olá, eu sou o Rafael Marques 🖖
 
  <div>
    <a href="https://github.com/rpmarques96">
